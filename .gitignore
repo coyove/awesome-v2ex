@@ -3,4 +3,7 @@ counter
 format.go
 index.html
 main.go
+main
+nohup.out
 websites
+main.min.js
