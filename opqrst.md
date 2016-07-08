@@ -934,7 +934,6 @@
 | [otokaze](http://www.v2ex.com/member/otokaze) | [http://www.otokaze.cn](http://www.otokaze.cn) | []() |
 | [ququjoy](http://www.v2ex.com/member/ququjoy) | [http://www.oldtxt.com](http://www.oldtxt.com) | []() |
 | [RobberPhex](http://www.v2ex.com/member/RobberPhex) | []() | [RobberPhex](https://github.com/RobberPhex) |
-| [tenacy](http://www.v2ex.com/member/tenacy) | [http://softdollar.taobao.com](http://softdollar.taobao.com) | []() |
 | [SamZeng](http://www.v2ex.com/member/SamZeng) | [http://samzeng.com](http://samzeng.com) | [samzeng](https://github.com/samzeng) |
 | [timqian](http://www.v2ex.com/member/timqian) | [http://www.timqian.com](http://www.timqian.com) | [timqian](https://github.com/timqian) |
 | [symons](http://www.v2ex.com/member/symons) | []() | [symons1992](https://github.com/symons1992) |
@@ -969,3 +968,5 @@
 | [phithon](http://www.v2ex.com/member/phithon) | [http://www.leavesongs.com/](http://www.leavesongs.com/) | [phith0n](https://github.com/phith0n) |
 | [Smartype](http://www.v2ex.com/member/Smartype) | [http://www.if0rce.com](http://www.if0rce.com) | []() |
 | [TonyLiu2ca](http://www.v2ex.com/member/TonyLiu2ca) | [http://blog.csdn.net/afatgoat](http://blog.csdn.net/afatgoat) | []() |
+
+

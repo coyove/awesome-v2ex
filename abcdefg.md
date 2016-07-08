@@ -249,7 +249,6 @@
 | [fanyue](http://www.v2ex.com/member/fanyue) | [http://www.fanyue.com](http://www.fanyue.com) | []() |
 | [caizixian](http://www.v2ex.com/member/caizixian) | [http://www.ivancai.me](http://www.ivancai.me) | [caizixian](https://github.com/caizixian) |
 | [Bubing](http://www.v2ex.com/member/Bubing) | [http://www.fuluba.com](http://www.fuluba.com) | []() |
-| [dubook](http://www.v2ex.com/member/dubook) | [http://junsoft.taobao.com](http://junsoft.taobao.com) | []() |
 | [acterce](http://www.v2ex.com/member/acterce) | [http://acterce.com](http://acterce.com) | [acterce](https://github.com/acterce) |
 | [dimpurr](http://www.v2ex.com/member/dimpurr) | [http://dimpurr.com](http://dimpurr.com) | [dimpurr](https://github.com/dimpurr) |
 | [allan888](http://www.v2ex.com/member/allan888) | []() | [jieaozhu](https://github.com/jieaozhu) |
@@ -259,7 +258,6 @@
 | [ewangke](http://www.v2ex.com/member/ewangke) | []() | [ewangke](https://github.com/ewangke) |
 | [david500834](http://www.v2ex.com/member/david500834) | [http://blog.csdn.net/david500834](http://blog.csdn.net/david500834) | [david500834](https://github.com/david500834) |
 | [grasses](http://www.v2ex.com/member/grasses) | [http://homeway.me](http://homeway.me) | [grasses](https://github.com/grasses) |
-| [Buynow](http://www.v2ex.com/member/Buynow) | [http://theverge.taobao.com](http://theverge.taobao.com) | []() |
 | [DIJ](http://www.v2ex.com/member/DIJ) | [https://dynamicer.com](https://dynamicer.com) | []() |
 | [Aben](http://www.v2ex.com/member/Aben) | []() | [Aben](https://github.com/Aben) |
 | [firsthym](http://www.v2ex.com/member/firsthym) | [http://www.geekway.me](http://www.geekway.me) | []() |
@@ -418,7 +416,6 @@
 | [alay9999](http://www.v2ex.com/member/alay9999) | [http://www.yushufang.me](http://www.yushufang.me) | []() |
 | [akfish](http://www.v2ex.com/member/akfish) | [http://catx.me](http://catx.me) | [akfish](https://github.com/akfish) |
 | [boer0924](http://www.v2ex.com/member/boer0924) | [http://www.boer.xyz](http://www.boer.xyz) | []() |
-| [dabaostudio](http://www.v2ex.com/member/dabaostudio) | [http://shop58929289.taobao.com](http://shop58929289.taobao.com) | []() |
 | [georgetso](http://www.v2ex.com/member/georgetso) | []() | [georgetso](https://github.com/georgetso) |
 | [chunzi](http://www.v2ex.com/member/chunzi) | []() | [chunzi](https://github.com/chunzi) |
 | [gudong](http://www.v2ex.com/member/gudong) | [http://gudong.name/](http://gudong.name/) | [maoruibin](https://github.com/maoruibin) |
@@ -929,7 +926,6 @@
 | [denisyu](http://www.v2ex.com/member/denisyu) | [http://www.ciccorporate.com](http://www.ciccorporate.com) | []() |
 | [chenwei](http://www.v2ex.com/member/chenwei) | []() | [chenweigit](https://github.com/chenweigit) |
 | [erylee](http://www.v2ex.com/member/erylee) | []() | [erylee](https://github.com/erylee) |
-| [dagobert1989](http://www.v2ex.com/member/dagobert1989) | [http://shop73383986.taobao.com/](http://shop73383986.taobao.com/) | []() |
 | [extreme](http://www.v2ex.com/member/extreme) | [http://yzs.me](http://yzs.me) | []() |
 | [franksin](http://www.v2ex.com/member/franksin) | []() | [zhanger](https://github.com/zhanger) |
 | [aivier](http://www.v2ex.com/member/aivier) | [http://aiyou.im](http://aiyou.im) | []() |
@@ -1300,7 +1296,6 @@
 | [cobola](http://www.v2ex.com/member/cobola) | [http://125806.com](http://125806.com) | []() |
 | [comcuter](http://www.v2ex.com/member/comcuter) | []() | [comcuter](https://github.com/comcuter) |
 | [alanerzhao](http://www.v2ex.com/member/alanerzhao) | [http://www.rankber.com](http://www.rankber.com) | [alanerzhao](https://github.com/alanerzhao) |
-| [asher](http://www.v2ex.com/member/asher) | [https://shop1...8706.taobao.com/](https://shop120678706.taobao.com/) | []() |
 | [archsocks](http://www.v2ex.com/member/archsocks) | [https://githu...hsocks/archsocks](https://github.com/archsocks/archsocks) | []() |
 | [anguskwan](http://www.v2ex.com/member/anguskwan) | []() | [anguskwan](https://github.com/anguskwan) |
 | [fyibmsd](http://www.v2ex.com/member/fyibmsd) | [http://fyibmsd.com](http://fyibmsd.com) | []() |
@@ -1358,3 +1353,13 @@
 | [gastlygem](http://www.v2ex.com/member/gastlygem) | [http://ducktypist.com](http://ducktypist.com) | [gastlygem](https://github.com/gastlygem) |
 | [gchen](http://www.v2ex.com/member/gchen) | [http://www.parallellabs.com](http://www.parallellabs.com) | []() |
 | [amxku](http://www.v2ex.com/member/amxku) | [http://luoq.net/](http://luoq.net/) | [amxku](https://github.com/amxku) |
+
+
+
+
+
+
+
+
+
+
