@@ -808,5 +808,6 @@
 | [unity0703](http://www.v2ex.com/member/unity0703) | [http://pqx.ee/](http://pqx.ee/) | [ee0703](https://github.com/ee0703) |
 | [zhoulujue](http://www.v2ex.com/member/zhoulujue) | []() | [zhoulujue](https://github.com/zhoulujue) |
 | [YUCOAT](http://www.v2ex.com/member/YUCOAT) | []() | [thlgood](https://github.com/thlgood) |
+| [zhaiblog](https://www.v2ex.com/member/zhaiblog) | [纸笔人](http://prne.org/) | [WingLim](https://github.com/WingLim) |
 
 
