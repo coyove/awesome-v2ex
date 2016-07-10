@@ -10,4 +10,6 @@
 
  * 大部分链接由程序自动收集，其通过爬取特定用户的回复列表而获得更多用户，故很少发表主题的用户是很难被爬取的。
 
- * 链接列表按照用户名（不区分大小写）分为：[0-9](0-9.md), [abcdefg](abcdefg.md), [hijklmn](hijklmn.md), [opqrst](opqrst.md), [uvwxyz](uvwxyz.md), 
+ * 链接列表按照用户名（不区分大小写）分为：[0-9](0-9.md), [abcdefg](abcdefg.md), [hijklmn](hijklmn.md), [opqrst](opqrst.md), [uvwxyz](uvwxyz.md)。
+
+ * 2016/7/10 移除了一些商业性质的站点和无效链接。
