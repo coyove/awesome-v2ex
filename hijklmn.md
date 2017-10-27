@@ -1097,7 +1097,7 @@
 | [Hysteria](http://www.v2ex.com/member/Hysteria) | [http://hysteria.github.io](http://hysteria.github.io) | [Hysteria](https://github.com/Hysteria) |
 | [no13bus](http://www.v2ex.com/member/no13bus) | [http://no13bus.ml](http://no13bus.ml) | [no13bus](https://github.com/no13bus) |
 | [littlewey](http://www.v2ex.com/member/littlewey) | [http://siwei.info](http://siwei.info) | [littlewey](https://github.com/littlewey) |
-| [hxsf](http://www.v2ex.com/member/hxsf) | [http://i.ihxsf.cn](http://i.ihxsf.cn) | [hxsf](https://github.com/hxsf) |
+| [hxsf](http://www.v2ex.com/member/hxsf) | [https://hxsf.me](https://hxsf.me) | [hxsf](https://github.com/hxsf) |
 | [junnplus](http://www.v2ex.com/member/junnplus) | []() | [junnplus](https://github.com/junnplus) |
 | [kimecho](http://www.v2ex.com/member/kimecho) | []() | [kimecho](https://github.com/kimecho) |
 | [Maarten](http://www.v2ex.com/member/Maarten) | [http://myan.im/](http://myan.im/) | [myan94](https://github.com/myan94) |
